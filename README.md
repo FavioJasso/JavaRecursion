@@ -3,7 +3,7 @@ This is lab project of my Data Structures and Algorithms CMP-233 at the County C
 
 
 ![Preview](ResultCodeRecursion.png)
-![Preview](RecursionJavaProjectProblems-01.png)
+![Preview](RecursionJavaProjectProblems/RecursionJavaProjectProblems-01.png)
 ![Preview](RecursionJavaProjectProblems-02.png)
 ![Preview](RecursionJavaProjectProblems-03.png)
 ![Preview](RecursionJavaProjectProblems-04.png)
