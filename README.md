@@ -1,8 +1,10 @@
 # JavaRecursion
 This is lab project of my Data Structures and Algorithms CMP-233 at the County College of Morris. Done in Java!
 
-
+<h2>Output Result of Java program</h2>
 ![Preview](ResultCodeRecursion.png)
+
+<h2>Original Problems and Math done</h2>
 ![Preview](RecursionJavaProjectProblems/RecursionJavaProjectProblems-01.png)
 ![Preview](RecursionJavaProjectProblems/RecursionJavaProjectProblems-02.png)
 ![Preview](RecursionJavaProjectProblems/RecursionJavaProjectProblems-03.png)
