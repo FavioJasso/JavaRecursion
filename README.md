@@ -1,6 +1,8 @@
 # JavaRecursion
 This is lab project of my Data Structures and Algorithms CMP-233 at the County College of Morris. Done in Java!
 
+The first objective is to solve the piecewise functions on paper before proceeding to create a Java program which follows and solves the same problem logic. Giving matching answers to the ones you solve for on paper. 
+
 <h2>Output Result of Java program</h2>
 
 ![Preview](ResultCodeRecursion.png)
